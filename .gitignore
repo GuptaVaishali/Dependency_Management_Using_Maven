@@ -1,0 +1,7 @@
+Maven_Project/.idea
+Maven_Project/Child1/target/classes
+Maven_Project/Child1/target/generated-sources
+Maven_Project/Child1/target/maven-status
+Maven_Project/Child2/target/classes
+Maven_Project/Child2/target/generated-sources
+Maven_Project/Child2/target/maven-status
